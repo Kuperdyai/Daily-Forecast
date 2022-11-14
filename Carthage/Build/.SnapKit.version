@@ -1,0 +1,19 @@
+{
+  "commitish" : "5.6.0",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)",
+      "hash" : "bd7db74778626a63d07ad9bd42c69b0791d3d4cbad1d52f347892bf3cafacfd4",
+      "name" : "SnapKit",
+      "container" : "SnapKit.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)",
+      "hash" : "a9d5ccda8eef892c91cbb81058329bfd680c13a008a98123a7b7f84d8540e7d4",
+      "name" : "SnapKit",
+      "container" : "SnapKit.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    }
+  ]
+}
